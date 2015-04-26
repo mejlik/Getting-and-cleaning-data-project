@@ -1,6 +1,7 @@
 ## README
 
 The repository contains four files:
+
 1.  README.md
 2.  code_book.md
 3.  run_analysis.R
