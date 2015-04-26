@@ -1,6 +1,3 @@
----
-title: "code_book"
----
 ## CODE BOOK
 
 ### run_analysis.R description
